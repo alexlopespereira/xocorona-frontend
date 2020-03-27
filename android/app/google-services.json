@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "198882234926",
+    "firebase_url": "https://olhosdeaguiamanchas.firebaseio.com",
+    "project_id": "olhosdeaguiamanchas",
+    "storage_bucket": "olhosdeaguiamanchas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198882234926:android:4b2ab128719d032c4345bf",
+        "android_client_info": {
+          "package_name": "br.xocorona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198882234926-a4ic0n0pgrke3edpedm17qp6fd8r6nlp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.xocorona",
+            "certificate_hash": "14ee576200091ad1f69bd47241e149bbaa1ae45b"
+          }
+        },
+        {
+          "client_id": "198882234926-klu13ah28tv23td3i0vieqilqesardbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2MsYnKb9dLc8xwRFnZp9arYbhX3s6ym0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198882234926-klu13ah28tv23td3i0vieqilqesardbt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198882234926-pcesn133esujfjd4uv2lib1mcbikfrm0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.nudgecovid19"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
